@@ -2,3 +2,4 @@
 - [skill-series-index](skill-series-index.md) — 系列 skill 族谱，记录每个 GitHub 仓库包含哪些子 skill
 - [humanizer-zh-trigger](humanizer-zh-trigger.md) — 用户说"太像AI了/去AI味儿"等中文说法时，自动调用 Humanizer-zh
 - [local-vision-model](local-vision-model.md) — 本地看图模型 qwen3-vl:4b 的部署信息、启动方式和调用模板
+- [github-repo-map](github-repo-map.md) — GitHub 仓库同步地图，本地文件夹到线上仓库的一一对应关系
