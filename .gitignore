@@ -1,0 +1,27 @@
+# 系统文件（不用备份）
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/编辑器
+.vscode/
+.idea/
+
+# cheat-on-content 缓存
+.cheat-cache/
+
+# 日志
+*.log
+
+# 大视频/音频（如果需要的话，先注释掉，之后按需取消）
+# *.mp4
+# *.avi
+# *.mov
+# *.wav

@@ -1,0 +1,19 @@
+=== Skill 更新检查报告 ===
+检查时间：2026-07-08（已更新）
+
+✅ agent-reach：已更新 a7c56eb → e825f67（+14 提交）
+   - 新增：Facebook/Instagram 搜索支持
+   - 安全：本地凭证处理加固
+   - 新增 26 个文件，+979/-204 行
+
+✅ cheat-on-content：已更新 3fe41f9 → 77b903f（+3 提交）
+   - star-history 图表美化（xkcd 风格）
+   - CI 自动更新 star 快照
+   - 新增 6 个文件，+249/-2 行
+
+🟢 已是最新（3个）：
+   - mrbeast-perspective (alchaincyf/mrbeast-skill)
+   - book-to-webpage (crayon-ai/book-to-webpage)
+   - headroom (roman-ryzenadvanced/headroom-skill)
+
+⚪ 无 Git 来源，无法检查（若干）
