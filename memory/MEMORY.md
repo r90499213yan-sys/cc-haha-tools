@@ -1,0 +1,4 @@
+- [skill-install-preference](skill-install-preference.md) — 安装新 skill 默认用软链接方式，不用本地副本
+- [skill-series-index](skill-series-index.md) — 系列 skill 族谱，记录每个 GitHub 仓库包含哪些子 skill
+- [humanizer-zh-trigger](humanizer-zh-trigger.md) — 用户说"太像AI了/去AI味儿"等中文说法时，自动调用 Humanizer-zh
+- [local-vision-model](local-vision-model.md) — 本地看图模型 qwen3-vl:4b 的部署信息、启动方式和调用模板
